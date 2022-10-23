@@ -1,4 +1,7 @@
 {
-    "wallpaper": "https://osakitsukiko.github.io/hatsune-config/wallpaper.png",
+    "wallpaper": {
+        "url": "https://osakitsukiko.github.io/hatsune-config/wallpaper.png",
+        "position": "none"
+    },
     "icon": "https://osakitsukiko.github.io/hatsune-config/icon.png"
 }
