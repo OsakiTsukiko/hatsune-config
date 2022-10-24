@@ -3,5 +3,31 @@
         "url": "https://osakitsukiko.github.io/hatsune-config/wallpaper.png",
         "position": "none"
     },
-    "icon": "https://osakitsukiko.github.io/hatsune-config/icon.png"
+    "icon": "https://osakitsukiko.github.io/hatsune-config/icon.png",
+    "apps": [
+        {
+            "id": "pixelorama",
+            "name": "Pixelorama",
+            "url": "https://osakitsukiko.github.io/pixelorama/",
+            "icon": "https://raw.githubusercontent.com/OsakiTsukiko/pixelorama/master/docs/index.icon.png"
+        },
+        {
+            "id": "osakitsukiko",
+            "name": "Osaki Tsukiko",
+            "url": "https://osakitsukiko.github.io/",
+            "icon": "https://avatars.githubusercontent.com/u/104794884?v=4"
+        },
+        {
+            "id": "dundevjourney",
+            "name": "Dun Dev Journey",
+            "url": "https://osakitsukiko.github.io/dun/",
+            "icon": "https://osakitsukiko.github.io/dun/assets/img/banner.png"
+        },
+        {
+            "id": "rapidrescue",
+            "name": "Rapid Rescue",
+            "url": "https://osakitsukiko.github.io/rapidrescue/",
+            "icon": "https://github.com/OsakiTsukiko/rapidrescue/blob/master/Images/input.gif?raw=true"
+        }
+    ]
 }
