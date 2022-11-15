@@ -26,8 +26,8 @@
         {
             "id": "rapidrescue",
             "name": "Rapid Rescue",
-            "url": "https://osakitsukiko.github.io/rapidrescue/",
-            "icon": "https://github.com/OsakiTsukiko/rapidrescue/blob/master/Images/input.gif?raw=true"
+            "url": "https://osakitsukiko.github.io/rapidrescue-web/",
+            "icon": "https://github.com/OsakiTsukiko/rapidrescue-web/blob/master/Images/input.gif?raw=true"
         }
     ]
 }
